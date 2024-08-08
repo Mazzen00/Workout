@@ -1,3 +1,0 @@
- // When you face an error in the terminal and say Mongodb .... it is possible that the IP address is forgotton 
-  so go to Mongodb cluster and just reconnect
-
